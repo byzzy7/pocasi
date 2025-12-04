@@ -1,0 +1,5 @@
+# .gitignore
+# Exclude sensitive configuration files
+config.py
+*.pyc
+.skill
